@@ -1,0 +1,42 @@
+body{
+    background-color: #000000;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/236x/b0/21/a3/b021a3c2f1cad21be6e3dcb665a363ac.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img{
+    width: 20%;
+}
+h1{
+    color: #00FF00;
+    font-size: 50px;
+}
+input{
+    width: 140px;
+    height: 30px;
+}
+#input-real{
+    border: 3px solid #FF0000;
+}
+#input-dolar{
+    border:  3px solid #0000CD;
+}
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+button{
+height: 40px;
+width: 150px;
+font-size: 20px;
+cursor: pointer;
+border: 3px solid #cfff00;
+border-radius: 10px;
+background-color: #323232;
+color: white;
+}
+button:hover{
+    color: #323232;
+    background-color: #cfff00;
+}
